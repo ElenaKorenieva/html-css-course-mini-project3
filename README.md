@@ -1,2 +1,1 @@
-# html-css-course-mini-project3
-html-css-course-mini-project 3
+https://elenakorenieva.github.io/html-css-course-mini-project3/

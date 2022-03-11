@@ -1,0 +1,66 @@
+html, body {
+    font-size: 16px;
+    margin: 0;
+    height: 100%;
+    background: cornsilk;
+}
+
+.tiles {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tile-container {
+    display: flex;
+    align-items: center;
+    width: 33.333333333%;
+    flex-grow: 1;
+    border: 1px solid rgb(206, 204, 204);
+    padding: 20px 30px;
+    background: white;
+}
+
+.tile-container:hover {
+    background: turquoise;
+}
+
+.tile {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.img {
+    background: url('../image/icons2.jpg');
+    width: 50px;
+    height: 50px;
+    margin: 15px;
+}
+
+.tile h2 {
+    margin: 15px;
+}
+
+.coding {
+    background-position: -46px -356px;
+}
+
+.resp-design {
+    background-position: -6px -356px;
+}
+
+.feat-reach {
+    background-position: -47px -404px;
+}
+
+.usf-doc {
+    background-position: -89px -585px;
+}
+
+.fast-delv {
+    background-position: -351px -451px;
+}
+
+.free-plg {
+    background-position: -305px -404px;
+}
